@@ -1,0 +1,10 @@
+{
+  "name": "dak-svc-hex-user",
+  "description": "Generated on Thu Dec 14 02:55:45 PM UTC 2023. This is a description of dak-svc-hex-user.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Дід Alik",
+  "license": "Apache 2",
+  "private": true
+}
